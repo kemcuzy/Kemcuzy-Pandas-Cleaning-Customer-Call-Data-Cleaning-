@@ -50,6 +50,9 @@ This repository documents a customer-data preprocessing project using Python and
 - Exporting cleaned data.
 - Recognizing the importance of validation and data provenance.
 
+
+
+
 ##Post-Analysis Insights
 
 This project strengthened my understanding of three important principles.
